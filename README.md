@@ -41,7 +41,7 @@ I'm an enthusiastic computer science student diving into the world of software d
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Xander's Coding Journey</h3></summary>
    I embarked on my programming journey at a young age, driven by my fascination with technology and a desire to create. It all started with building Discord bots, which ignited my passion for software development. As a computer science student, I am constantly expanding my knowledge and skills in various advanced technologies.
 
    I am currently focused on mastering Java and JavaScript, along with a wide range of other cutting-edge tools and frameworks. My studies in computer science have allowed me to delve into the depths of code, explore Unix and Linux systems, and grasp theoretical concepts.
