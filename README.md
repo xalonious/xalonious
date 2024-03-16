@@ -1,6 +1,6 @@
 # 👋🏼 | Hi there, I'm Xander!
 
-**`Digital Craftsman (Developerà`**
+**`Digital Craftsman (Developer)`**
 
 I'm an enthusiastic computer science student diving into the world of software development. I'm passionate about building my own digital creations. I take pride in crafting every aspect, from planning and design to solving real-world problems with code.
    <p align="left">
