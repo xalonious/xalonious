@@ -44,6 +44,7 @@ I'm an enthusiastic computer science student diving into the world of software d
  <summary><h3>👨‍💻 Xander's Coding Journey</h3></summary>
 I got into programming when I was quite young, just tinkering with things and trying to figure out how stuff works. It all started with me playing around with Discord bots, which was like a gateway into the world of software development for me. I found it fascinating being able to create something out of nothing.
 
+
 Nowadays, I'm knee-deep in my computer science studies, and let me tell you, it's a wild ride. I'm constantly learning new things, especially about Java and JavaScript. But it's not just about learning languages; it's about understanding the whole ecosystem of tools and frameworks that make software possible.
 
 My studies have taken me on some interesting detours. I've spent hours poring over lines of code, trying to decipher how it all fits together. And let me tell you, Unix and Linux systems? They're like a whole other world to explore. Plus, I've been grappling with some pretty abstract theoretical concepts, trying to wrap my head around the deeper principles behind coding.
