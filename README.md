@@ -1,13 +1,15 @@
+
 # 👋🏼 | Hi there, I'm Xander!
 
 **`Digital Craftsman (Developer)`**
 
 I'm an enthusiastic computer science student diving into the world of software development. I'm passionate about building my own digital creations. I take pride in crafting every aspect, from planning and design to solving real-world problems with code.
-   <p align="left">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/xalonious?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/xalonious?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/xalonious?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+
+<p align="left">
+   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/xalonious?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   <a href="https://github.com/xalonious?tab=repositories&sort=stargazers">
+   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/xalonious?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
 
 ---
 
@@ -26,6 +28,7 @@ I'm an enthusiastic computer science student diving into the world of software d
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px; "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+
 <br />
 
 #
@@ -41,9 +44,9 @@ I'm an enthusiastic computer science student diving into the world of software d
 #
 
 <details>
- <summary><h3>👨‍💻 Xander's Coding Journey</h3></summary>
-I got into programming when I was quite young, just tinkering with things and trying to figure out how stuff works. It all started with me playing around with Discord bots, which was like a gateway into the world of software development for me. I found it fascinating being able to create something out of nothing.
+   <summary><h3>👨‍💻 Xander's Coding Journey</h3></summary>
 
+I got into programming when I was quite young, just tinkering with things and trying to figure out how stuff works. It all started with me playing around with Discord bots, which was like a gateway into the world of software development for me. I found it fascinating being able to create something out of nothing.
 
 Nowadays, I'm knee-deep in my computer science studies, and let me tell you, it's a wild ride. I'm constantly learning new things, especially about Java and JavaScript. But it's not just about learning languages; it's about understanding the whole ecosystem of tools and frameworks that make software possible.
 
