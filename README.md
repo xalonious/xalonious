@@ -33,8 +33,6 @@ I'm an enthusiastic computer science student diving into the world of software d
 
 #
 
-#
-
 ### 📊 Stats
 
 ![xalonious' GitHub stats](https://github-readme-stats.vercel.app/api?username=xalonious&show_icons=true&theme=gruvbox)
