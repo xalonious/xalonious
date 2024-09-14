@@ -1,8 +1,5 @@
 
-# 👋🏼 | [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=8000&pause=1000&color=F7F7F7&random=true&width=500&lines=Hi+there,+I'm+Xander!)](https://git.io/typing-svg)
-
-
-
+# 👋🏼 | Hi there, I'm Xander!
 
 **`Digital Craftsman (Developer)`**
 
@@ -60,7 +57,6 @@ My studies have taken me on some interesting detours. I've spent hours poring ov
 At first, I was all about building cool Discord bots, but then I realized I wanted to be more versatile. So, I started learning about both front-end and back-end development—how to make stuff look good and how to make it work even better.
 
 By the time I finish my studies, I'll be armed with all the knowledge and skills I need to take on whatever challenges come my way. And believe me, I'm ready to make some waves in the world of software once again. So, brace yourself because big things are coming, and I'm just getting started!
-
 
 
 
