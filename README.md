@@ -1,5 +1,5 @@
 
-# 👋🏼 | Hi there, I'm Xander!
+# 👋🏼 | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=8000&pause=&color=F7F7F7&random=true&width=435&lines=Hi there, I'm Xander!)](https://git.io/typing-svg)
 
 **`Digital Craftsman (Developer)`**
 
