@@ -9,8 +9,8 @@
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats-xalonious.vercel.app/api?username=xalonious&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats-xalonious.vercel.app/api/streak?username=xalonious&theme=tokyonight)
+![](https://github-readme-stats-xalonious.vercel.app/api?username=xalonious&show_icons=true&theme=tokyonight)<br>
+![](https://github-readme-stats-xalonious.vercel.app/api/streak?username=xalonious&theme=tokyonight)<br>
 ![](https://github-readme-stats-xalonious.vercel.app/api/top-langs/?username=xalonious&layout=compact&theme=tokyonight)
 
 
