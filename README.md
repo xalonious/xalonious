@@ -1,5 +1,5 @@
 # 💫 About Me
-👋 Hi, I’m Xander<br>🎓 20 year old CS student from Belgium<br>💻 Been coding since I was 13<br>🌟 Passionate about building cool projects and learning new tech<br>📚 Always looking for new challenges
+👋 Hi, I’m Xander<br>🎓 21 year old CS student from Belgium<br>💻 Been coding since I was 13<br>🌟 Passionate about building cool projects and learning new tech<br>📚 Always looking for new challenges
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordid.netlify.app/?id=531484240114876416)
